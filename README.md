@@ -6,10 +6,12 @@
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-dhiman-07/leet-code/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aditya-dhiman-07/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aditya-dhiman-07/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
