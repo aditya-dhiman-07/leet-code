@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aditya-dhiman-07/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/aditya-dhiman-07/leet-code/tree/master/0386-lexicographical-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aditya-dhiman-07/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/aditya-dhiman-07/leet-code/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
