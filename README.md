@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aditya-dhiman-07/leet-code/tree/master/0062-unique-paths) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/aditya-dhiman-07/leet-code/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aditya-dhiman-07/leet-code/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-dhiman-07/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
