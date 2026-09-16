@@ -42,12 +42,14 @@
 | ------- |
 | [0078-subsets](https://github.com/aditya-dhiman-07/leet-code/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-dhiman-07/leet-code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/aditya-dhiman-07/leet-code/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aditya-dhiman-07/leet-code/tree/master/0062-unique-paths) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/aditya-dhiman-07/leet-code/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aditya-dhiman-07/leet-code/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/aditya-dhiman-07/leet-code/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-dhiman-07/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
