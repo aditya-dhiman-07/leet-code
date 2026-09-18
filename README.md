@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/aditya-dhiman-07/leet-code/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/aditya-dhiman-07/leet-code/tree/master/0078-subsets) |
 | [0864-image-overlap](https://github.com/aditya-dhiman-07/leet-code/tree/master/0864-image-overlap) |
+| [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1572-subrectangle-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/1572-subrectangle-queries) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-dhiman-07/leet-code/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
@@ -90,6 +92,7 @@
 | [0015-3sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/aditya-dhiman-07/leet-code/tree/master/0056-merge-intervals) |
+| [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2887-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -131,6 +134,7 @@
 | [0015-3sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
 | ------- |
@@ -144,4 +148,8 @@
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/1572-subrectangle-queries) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
