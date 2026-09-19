@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/aditya-dhiman-07/leet-code/tree/master/0078-subsets) |
 | [0864-image-overlap](https://github.com/aditya-dhiman-07/leet-code/tree/master/0864-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
+| [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1572-subrectangle-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/1572-subrectangle-queries) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aditya-dhiman-07/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
