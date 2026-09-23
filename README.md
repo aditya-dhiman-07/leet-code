@@ -13,6 +13,7 @@
 | [0864-image-overlap](https://github.com/aditya-dhiman-07/leet-code/tree/master/0864-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditya-dhiman-07/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-dhiman-07/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1572-subrectangle-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/1572-subrectangle-queries) |
@@ -118,6 +119,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aditya-dhiman-07/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditya-dhiman-07/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-dhiman-07/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Tree
 |  |
