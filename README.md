@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/aditya-dhiman-07/leet-code/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/aditya-dhiman-07/leet-code/tree/master/0078-subsets) |
+| [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0864-image-overlap](https://github.com/aditya-dhiman-07/leet-code/tree/master/0864-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-dhiman-07/leet-code/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2032-largest-odd-number-in-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2032-largest-odd-number-in-string) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aditya-dhiman-07/leet-code/tree/master/0062-unique-paths) |
+| [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/aditya-dhiman-07/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -123,6 +126,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aditya-dhiman-07/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditya-dhiman-07/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-dhiman-07/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -164,4 +168,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
