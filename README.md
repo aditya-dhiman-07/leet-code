@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/aditya-dhiman-07/leet-code/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-dhiman-07/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aditya-dhiman-07/leet-code/tree/master/0078-subsets) |
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0864-image-overlap](https://github.com/aditya-dhiman-07/leet-code/tree/master/0864-image-overlap) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-dhiman-07/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aditya-dhiman-07/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
@@ -160,6 +162,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aditya-dhiman-07/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0864-image-overlap](https://github.com/aditya-dhiman-07/leet-code/tree/master/0864-image-overlap) |
 | [1572-subrectangle-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/1572-subrectangle-queries) |
 ## Design
