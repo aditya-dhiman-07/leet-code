@@ -25,6 +25,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aditya-dhiman-07/leet-code/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-dhiman-07/leet-code/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-dhiman-07/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -35,6 +36,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-dhiman-07/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
@@ -52,6 +54,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-dhiman-07/leet-code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2032-largest-odd-number-in-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2032-largest-odd-number-in-string) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2887-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Backtracking
@@ -187,4 +190,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 <!---LeetCode Topics End-->
