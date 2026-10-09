@@ -13,6 +13,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aditya-dhiman-07/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aditya-dhiman-07/leet-code/tree/master/0078-subsets) |
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0864-image-overlap](https://github.com/aditya-dhiman-07/leet-code/tree/master/0864-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -115,6 +117,7 @@
 | [0015-3sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/aditya-dhiman-07/leet-code/tree/master/0056-merge-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2887-sort-vowels-in-a-string) |
