@@ -32,6 +32,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-dhiman-07/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-dhiman-07/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/aditya-dhiman-07/leet-code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -53,6 +54,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-dhiman-07/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2887-sort-vowels-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2887-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-dhiman-07/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/aditya-dhiman-07/leet-code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
