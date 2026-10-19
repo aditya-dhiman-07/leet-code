@@ -25,6 +25,7 @@
 | [1646-kth-missing-positive-number](https://github.com/aditya-dhiman-07/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aditya-dhiman-07/leet-code/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -131,6 +132,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2887-sort-vowels-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2887-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -164,6 +166,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-dhiman-07/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/aditya-dhiman-07/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
