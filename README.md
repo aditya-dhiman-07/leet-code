@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya-dhiman-07/leet-code/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/aditya-dhiman-07/leet-code/tree/master/0062-unique-paths) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/aditya-dhiman-07/leet-code/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1761-count-sorted-vowel-strings](https://github.com/aditya-dhiman-07/leet-code/tree/master/1761-count-sorted-vowel-strings) |
@@ -144,6 +145,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya-dhiman-07/leet-code/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aditya-dhiman-07/leet-code/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aditya-dhiman-07/leet-code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
