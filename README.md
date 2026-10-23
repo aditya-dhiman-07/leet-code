@@ -34,6 +34,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-dhiman-07/leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-dhiman-07/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-dhiman-07/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0078-subsets](https://github.com/aditya-dhiman-07/leet-code/tree/master/0078-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-dhiman-07/leet-code/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-dhiman-07/leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
