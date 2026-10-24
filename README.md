@@ -69,6 +69,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-dhiman-07/leet-code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2032-largest-odd-number-in-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2409-count-days-spent-together](https://github.com/aditya-dhiman-07/leet-code/tree/master/2409-count-days-spent-together) |
 | [2887-sort-vowels-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2887-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -87,6 +88,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/aditya-dhiman-07/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aditya-dhiman-07/leet-code/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2032-largest-odd-number-in-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2032-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/aditya-dhiman-07/leet-code/tree/master/2409-count-days-spent-together) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/aditya-dhiman-07/leet-code/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-dhiman-07/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
