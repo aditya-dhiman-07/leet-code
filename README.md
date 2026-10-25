@@ -27,6 +27,7 @@
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aditya-dhiman-07/leet-code/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/aditya-dhiman-07/leet-code/tree/master/2126-destroying-asteroids) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-dhiman-07/leet-code/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -59,6 +60,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2032-largest-odd-number-in-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/aditya-dhiman-07/leet-code/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-dhiman-07/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
@@ -140,6 +142,7 @@
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/aditya-dhiman-07/leet-code/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2887-sort-vowels-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2887-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
