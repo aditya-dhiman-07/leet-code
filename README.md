@@ -34,6 +34,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-dhiman-07/leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -50,6 +51,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-dhiman-07/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
@@ -96,6 +98,7 @@
 | [2409-count-days-spent-together](https://github.com/aditya-dhiman-07/leet-code/tree/master/2409-count-days-spent-together) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/aditya-dhiman-07/leet-code/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-dhiman-07/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -131,6 +134,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/aditya-dhiman-07/leet-code/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/aditya-dhiman-07/leet-code/tree/master/1761-count-sorted-vowel-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Union-Find
 |  |
 | ------- |
@@ -183,6 +187,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Tree
 |  |
@@ -229,6 +234,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +243,7 @@
 |  |
 | ------- |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +252,7 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/aditya-dhiman-07/leet-code/tree/master/1492-the-kth-factor-of-n) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/aditya-dhiman-07/leet-code/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/aditya-dhiman-07/leet-code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -267,4 +275,12 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/aditya-dhiman-07/leet-code/tree/master/1492-the-kth-factor-of-n) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
