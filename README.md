@@ -170,6 +170,7 @@
 | [0002-add-two-numbers](https://github.com/aditya-dhiman-07/leet-code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/0092-reverse-linked-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0876-middle-of-the-linked-list) |
@@ -221,6 +222,7 @@
 | [0018-4sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-dhiman-07/leet-code/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0234-palindrome-linked-list) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -298,4 +301,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
