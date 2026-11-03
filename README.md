@@ -42,6 +42,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-dhiman-07/leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-dhiman-07/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-dhiman-07/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/aditya-dhiman-07/leet-code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -104,6 +105,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-dhiman-07/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/aditya-dhiman-07/leet-code/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
