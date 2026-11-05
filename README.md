@@ -21,6 +21,7 @@
 | [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditya-dhiman-07/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-dhiman-07/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1572-subrectangle-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/1572-subrectangle-queries) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
@@ -155,6 +156,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-dhiman-07/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/aditya-dhiman-07/leet-code/tree/master/2126-destroying-asteroids) |
@@ -197,6 +199,7 @@
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/aditya-dhiman-07/leet-code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditya-dhiman-07/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-dhiman-07/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/aditya-dhiman-07/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -228,6 +231,7 @@
 | [0234-palindrome-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/aditya-dhiman-07/leet-code/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/aditya-dhiman-07/leet-code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
