@@ -80,6 +80,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aditya-dhiman-07/leet-code/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-dhiman-07/leet-code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2032-largest-odd-number-in-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aditya-dhiman-07/leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -323,4 +324,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya-dhiman-07/leet-code/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
