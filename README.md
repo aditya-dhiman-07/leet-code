@@ -75,6 +75,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-dhiman-07/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya-dhiman-07/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-dhiman-07/leet-code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-dhiman-07/leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-dhiman-07/leet-code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/aditya-dhiman-07/leet-code/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/aditya-dhiman-07/leet-code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
