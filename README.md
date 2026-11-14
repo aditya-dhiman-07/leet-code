@@ -40,6 +40,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya-dhiman-07/leet-code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-dhiman-07/leet-code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-dhiman-07/leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -145,6 +146,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/aditya-dhiman-07/leet-code/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-dhiman-07/leet-code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditya-dhiman-07/leet-code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
