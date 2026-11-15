@@ -23,6 +23,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-dhiman-07/leet-code/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya-dhiman-07/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-subrectangle-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/1572-subrectangle-queries) |
 | [1630-arithmetic-subarrays](https://github.com/aditya-dhiman-07/leet-code/tree/master/1630-arithmetic-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/aditya-dhiman-07/leet-code/tree/master/1646-kth-missing-positive-number) |
@@ -105,6 +106,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya-dhiman-07/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1492-the-kth-factor-of-n](https://github.com/aditya-dhiman-07/leet-code/tree/master/1492-the-kth-factor-of-n) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/aditya-dhiman-07/leet-code/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1761-count-sorted-vowel-strings](https://github.com/aditya-dhiman-07/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aditya-dhiman-07/leet-code/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/aditya-dhiman-07/leet-code/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/aditya-dhiman-07/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-dhiman-07/leet-code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -271,6 +274,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-dhiman-07/leet-code/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-dhiman-07/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya-dhiman-07/leet-code/tree/master/3364-minimum-positive-sum-subarray) |
