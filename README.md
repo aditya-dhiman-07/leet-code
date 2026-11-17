@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aditya-dhiman-07/leet-code/tree/master/0008-string-to-integer-atoi) |
+| [0091-decode-ways](https://github.com/aditya-dhiman-07/leet-code/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-dhiman-07/leet-code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aditya-dhiman-07/leet-code/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/aditya-dhiman-07/leet-code/tree/master/0091-decode-ways) |
 | [0410-split-array-largest-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0410-split-array-largest-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/aditya-dhiman-07/leet-code/tree/master/1761-count-sorted-vowel-strings) |
