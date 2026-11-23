@@ -25,14 +25,10 @@ public:
 
             ListNode* slow = head;
             ListNode* fast = ptr;
-            while(slow != ptr){
-                while(fast!=slow){
-                    fast = fast->next;
-                    if (fast == ptr) break;
-                }
-                if(fast == slow) return slow;
+            while(slow != fast){
+                fast = fast->next;
                 slow = slow->next;
-                fast = ptr;
+                if(slow==fast) break;
             }
             return slow;
         }
