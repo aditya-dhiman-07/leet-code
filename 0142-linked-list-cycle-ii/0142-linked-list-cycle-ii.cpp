@@ -7,31 +7,32 @@
  * };
  */
 class Solution {
-private:
-    ListNode *cycleNode(ListNode *head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-        while(fast&&fast->next){
-            fast = fast->next->next;
-            slow = slow->next;
-            if(slow == fast) return slow;
-        }
-        return nullptr;
-    }
 public:
     ListNode *detectCycle(ListNode *head) {
-        ListNode* ptr = cycleNode(head);
-        if(ptr!=nullptr){
+        ListNode* slow=head;
+        ListNode* fast=head;
+        bool isCycle=false;
 
-            ListNode* slow = head;
-            ListNode* fast = ptr;
-            while(slow != fast){
-                fast = fast->next;
-                slow = slow->next;
-                if(slow==fast) break;
+        while(fast && fast->next){
+            slow=slow->next;
+            fast=fast->next->next;
+
+            if(slow == fast){
+                isCycle=true;
+                break;
             }
-            return slow;
         }
-        else return nullptr;
+        if(!isCycle) return NULL;
+
+        slow=head;
+
+        while(slow != fast){
+            slow = slow->next;
+            fast = fast->next;
+        }
+
+        return slow;
+
+        
     }
 };
