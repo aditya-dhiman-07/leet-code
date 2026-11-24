@@ -5,8 +5,7 @@ public:
 
         int n = 1;
         ListNode* ptr = head;
-
-        // Stop directly on the last node so we don't need ptr_end
+        // goto end and count for number of elements
         while (ptr->next) {
             ptr = ptr->next;
             n++;
@@ -15,13 +14,13 @@ public:
         k = k % n;
         if (k == 0) return head;
 
-        // Make it a circular list, then walk (n - k) steps to land on the new tail
+        // connect end to head and go n-k steps i.e the steps required to get to the prev node of new head
         ptr->next = head;
         int x = n - k;
         while (x--) {
             ptr = ptr->next;
         }
-
+        // assign new head as ptr->next and make its next nullptr and return head
         ListNode* temp = ptr->next;
         ptr->next = nullptr;
         head = temp;
