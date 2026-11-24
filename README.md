@@ -193,6 +193,7 @@
 | [0002-add-two-numbers](https://github.com/aditya-dhiman-07/leet-code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditya-dhiman-07/leet-code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/aditya-dhiman-07/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/0142-linked-list-cycle-ii) |
@@ -252,6 +253,7 @@
 | [0015-3sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditya-dhiman-07/leet-code/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/aditya-dhiman-07/leet-code/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aditya-dhiman-07/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-dhiman-07/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-dhiman-07/leet-code/tree/master/0151-reverse-words-in-a-string) |
